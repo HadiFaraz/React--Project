@@ -1,6 +1,6 @@
-![Overview]()
-
 # TriviaTrek - A React Quiz App
+
+![Overview](src/Walkthrough.gif)
 
 ## Summary:
 🚀 "TriviaTrek" represents my inaugural solo project in React, an interactive quiz application that has been both a learning journey and a delightful coding adventure. Here's a glance at what I've gleaned from this exciting endeavor:
